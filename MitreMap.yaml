@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mitre-map
+spec:
+  containers:
+  - name: mitremap-container
+    image: mitremap_container
+    command: ["python", "mitremap.py"]
+    volumeMounts:
+    - name: app-volume
+      mountPath: /app
+  volumes:
+  - name: app-volume
+    emptyDir: {}

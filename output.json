@@ -1,0 +1,195 @@
+[
+    {
+        "CVE": "CVE-2014-0050",
+        "Techniques": [
+            {
+                "Technique": "T1190",
+                "Website": "https://attack.mitre.org/techniques/T1190"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2016-3088",
+        "Techniques": [
+            {
+                "Technique": "T1505/003",
+                "Website": "https://attack.mitre.org/techniques/T1505/003"
+            },
+            {
+                "Technique": "T1190",
+                "Website": "https://attack.mitre.org/techniques/T1190"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2017-10810",
+        "Techniques": [
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2017-11368",
+        "Techniques": [
+            {
+                "Technique": "T1078",
+                "Website": "https://attack.mitre.org/techniques/T1078"
+            },
+            {
+                "Technique": "T1212",
+                "Website": "https://attack.mitre.org/techniques/T1212"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2017-7533",
+        "Techniques": [
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            },
+            {
+                "Technique": "T1499",
+                "Website": "https://attack.mitre.org/techniques/T1499"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2019-2215",
+        "Techniques": [
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            },
+            {
+                "Technique": "T1404",
+                "Website": "https://attack.mitre.org/techniques/T1404"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-10751",
+        "Techniques": [
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-11608",
+        "Techniques": [
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            },
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-11668",
+        "Techniques": [
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-12464",
+        "Techniques": [
+            {
+                "Technique": "T1091",
+                "Website": "https://attack.mitre.org/techniques/T1091"
+            },
+            {
+                "Technique": "T1203",
+                "Website": "https://attack.mitre.org/techniques/T1203"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-12652",
+        "Techniques": [
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            },
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-12653",
+        "Techniques": [
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            },
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-12769",
+        "Techniques": [
+            {
+                "Technique": "T1499/004/",
+                "Website": "https://attack.mitre.org/techniques/T1499/004/"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-15095",
+        "Techniques": [
+            {
+                "Technique": "T1552",
+                "Website": "https://attack.mitre.org/techniques/T1552"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-15393",
+        "Techniques": [
+            {
+                "Technique": "T1091",
+                "Website": "https://attack.mitre.org/techniques/T1091"
+            },
+            {
+                "Technique": "T1499/001",
+                "Website": "https://attack.mitre.org/techniques/T1499/001"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-8648",
+        "Techniques": [
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            }
+        ]
+    },
+    {
+        "CVE": "CVE-2020-8649",
+        "Techniques": [
+            {
+                "Technique": "T1068",
+                "Website": "https://attack.mitre.org/techniques/T1068"
+            },
+            {
+                "Technique": "T1499/004",
+                "Website": "https://attack.mitre.org/techniques/T1499/004"
+            }
+        ]
+    }
+]
